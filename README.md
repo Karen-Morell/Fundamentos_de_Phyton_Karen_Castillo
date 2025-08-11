@@ -6,6 +6,12 @@ Proyectos del primer curso de Phyton en el diplomado de Ciencia de Datos para Ci
 3. GeanFranco Castillo
 
  ## Faculty
- Anthropology
- Sociology
- Psicology
+ 1. Anthropology
+ 2. Sociology
+ 3. Psicology
+
+## Schools
+1. La Union
+2. CET 34
+3. Liceo Trujillo
+4. Guadalupe
